@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	align-content: center;	
+}
+
+.box1{
+	background-color:#E8B47B;
+	margin: 30px;
+	padding: 20px;
+}
+
+.heading1 {
+	font-size: 35px;
+	font-family: "Arial Black";
+	text-decoration-line: underline;
+	background-color:#7DFEC9;
+	text-align: center;
+	text-decoration-style: wavy;
+}
+.paragraphs{
+	font-family: 'Bodoni Moda', serif;
+	font-size: 20px;
+	padding: 10px;
+	margine: 10px;
+	text-align: center;
+}
+.headings2{
+	font-size: 25px;
+	font-family: 'Helvetica Neue';
+	text-decoration-line:line-through;
+	background-color: green;
+	text-align: center;
+	text-decoration-style: wavy;
+}
+img{
+	border: dashed;
+	border-color: aqua;
+	width: 100px;
+}
+.box2{
+	background-color:#FF8C8E;
+	margin: 30px;
+	padding: 20px;
+	width: 500px;
+}
+
